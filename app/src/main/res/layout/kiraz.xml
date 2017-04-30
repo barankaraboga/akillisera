@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView16"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/kirazicon" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView6" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="İklim istekleri Türkiye’de iyi bir kiraz ekolojisi vardır. Kirazın soğuklama gereksinimi 7,2 oC’nin altında 1000 saatten fazla olduğu için, yayla bölgeler ya da kışları soğuk geçen bölgelerde yetişmektedir. 8 Kiraz yetiştiriciliği için iklim faktörlerinden en önemlisi sıcaklıktır. Kirazlar genellikle aşırı düşük ve yüksek sıcaklıklara dayanamazlar. Kirazlar yazları serin geçen yerleri severler. Sıcaklık 35 oC ’ nin üzerinde olduğu zaman kirazlar olumsuz etkilenir. Kiraz yetiştiriciliği, özellikle kışın sıcaklığın sık sık -25 oC,-30 oC&apos;nin altına düştüğü alanlarda başarılı olmamaktadır. Kirazlar, ilkbahar geç donlarından sık sık zarar görmektedir. Çiçek tomurcukları -2,4 oC&apos;ye kadar dayanabildiği halde, açmış çiçekler -2 oC&apos;de donarlar. Çiçekten sonra oluşan küçük meyveler ise -1,1 oC’de donar. Özellikle ilkbahar geç donlarının görüldüğü yerlerde don cebi oluşturacak yerler, dar vadi tabanları ile hâkim rüzgârı direkt gören yerlerde bahçe kurulmamalıdır. Kış soğuklama ihtiyaçları karşılanmamış kirazların çiçeklenmelerinde gecikme ve düzensizlikler görülmektedir. Bu durum özellikle Lambert, Napolyon ve Bing gibi yüksek soğuklama ihtiyaç gösteren kiraz çeşitlerinde daha belirgindir. Kiraz yetiştiriciliğinde yağışın yıl içerisine düzenli olarak yayılması istenir. Genel olarak 600 mm yağış alan yerlerde kiraz yetiştiriciliği sulamaya gerek kalmadan yapılabilirse de, modern bahçe tesisinde sulama imkânları karşılanmadan bahçe kurulmamalıdır. Kirazların çiçeklenme ve meyve oluşumu esnasında havaların yağışlı gitmesi istenmez. Zira çiçeklenme zamanında yağan yağmur döllenmeyi güçleştirir. Meyve olgunlaşması esnasında yağabilecek yağmur meyvelerin çatlamasına neden olarak pazar değerini düşürür. Çiçeklenme zamanında sıcaklığın 12 oC’nin altında olduğu durumlarda arı ve böcekler çalışmaz bu da meyve tutumunu olumsuz etkiler. Tüm bu olumsuzluklara rağmen kiraz ağacı yüksek rakımlı yaylalarda, Erzurum gibi çok soğuk memleketlerde bile yetiştirilebilecek nadir meyvelerdendir. Meyvesini erken olgunlaştırması, yaprağını erken dökmesi yetiştiricilik açısından en büyük avantajlarındandır."
+            android:id="@+id/textView15" />
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="anasayfa" type="mipmap">@mipmap/home</item>
+    <item name="cicekler" type="mipmap">@mipmap/plant</item>
+    <item name="agaclar" type="mipmap">@mipmap/tree</item>
+    <item name="hakkimda" type="mipmap">@mipmap/about</item>
+</resources>

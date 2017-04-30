@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView15"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/portakalicon" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView5" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Turunçgil Turunçgil yetiştiriciliğinde İklim :  Turunçgiller Ülkemizde Akdeniz, Ege ve kısmen de Doğu Karadeniz bölgelerindeki, iklim  şartlarının uygun olduğu yörelerde yetiştirilir.   Yetiştiriciliğini sınırlayan en önemli iklim olayı, düşük sıcaklıklar (don) dır. Türlerin  düşük sıcaklıklara dayanıklıları farklılıklar gösterir.  Limon 0°C, portakal -2°C, altıntop -3°C ve mandarin -4°C’nin altında zarar görür. Zararın  şiddeti don olayının süresine bağlıdır. Uzun sürerse zararı da artar.  İkinci önemli iklim faktörü, rüzgardır. Rüzgar hem şiddetiyle (ağaçların kırılması, meyve dökümü) , hem de soğukluğuyla turunçgillere zarar verir.   Turunçgil yetiştiriciliğinde Toprak  Dikimden önce arazinin toprağı, mutlaka analiz ettirilmelidir. Toprak asitliği hafif veya nötr  dolaylarında olmalıdır (pH= 5,5-6,5). Turunçgiller, bitki besin maddelerince zengin, süzek,  geçirgen toprakları tercih eder. Toprağın derinliği en az 1 m olmalıdır. Taban suyu yüksek olan  toprakları, hiç sevmez. Böyle yerlerde, mutlaka drenaj yapılmalıdır. Ağır bünyeli ve fazla kireçli  topraklarda turunçgiller için tercih edilmez. "
+            android:id="@+id/textView14" />
+    </ScrollView>
+</LinearLayout>

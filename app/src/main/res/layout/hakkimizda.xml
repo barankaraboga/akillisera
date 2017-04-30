@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView7" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Bazen  Sevginin ifadesi, bazen duyguların ifadesi,  bazen özlemin, bazen aşkın, bazen tutkunun bazen dargınların  barıtırmanın bazen gönül almanın ifadesi ve bazen de paha piçilemez bir hediyedir çiçek... Bu özelliği ile çiçeklere değer verilmesini  tarihçesi ilk çağlara kadar dayanır.  Bizim çiçekçilik ile ilgili mazimiz  ise 1961 yılında  ailemizin Elazığ&apos;da amatörce yapmış olduğu  çiçek yetiştiriciliği ile başladı.  1978 yılında  2000 m kare  plastik serada  saksı çiçekleri, kesme gül ve mevsim çiçekleri yetiştiriciliği  yaptıktan sonra 1982 yılında   profesyonelliğe geçiş sürecimiz başladı.  Bu süreçte 1500 metre kare alanda  dış mekan kesme gül ve  fidan 600 metre kapalı alanda  kesme karanfil, 2000 metre kapalı alanda dış mekan süs bitkileri, 400 metre kapalı alanda  cam serada  saksı çiçeği üretimimizle Elazığ&apos;da  çiçekçilik alanında  önemli mesafeler kat ettik."
+            android:id="@+id/textView16" />
+    </ScrollView>
+</LinearLayout>

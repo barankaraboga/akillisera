@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView8"
+        android:src="@mipmap/appleicerik"
+        android:layout_gravity="center_horizontal" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Elma ılıman, özellikle soğuk ılıman iklim meyvesidir. Genellikle dünyada 30°-50° enlemlerde yetişmektedir. Türkiye’de Ege Bölgesi’nde 500 metre . Akdeniz ve Güneydoğu Anadolu Bölgesi’nin sıcak ve kurak yerlerindeki 800 metreden daha yukarı yerlerde yetişmektedir. Yüksek ışık yoğunluğu elmada çok iyi renk oluşumunu sağlar. Elma ağacı düşük sıcaklıkların olduğu sert kışlara dayanıklıdır. Kış dinlenmesi sırasında odun kısımları -35°C ile –40°C’ a, açmış çiçekler –2.2°C ile –2.3°C ve küçük meyveler ise –1.1°C ile –2.2°C’a dayanırlar  Elma kış dinlenmesine en fazla ihtiyaç duyan meyve türüdür. Yapılan denemelerde elmaların soğuklama ihtiyacını karşılayabilmesi için + 7.2°C’nin altında çeşitlere bağlı olarak 2322-3648 saat kalması gerekir. 0°C!nin altında ise 1081-2094 saat soğuklamaya ihtiyacı vardır. Yetersiz soğuklama sonucu çiçeklerin bir kısmı ölür, geriye kalan çiçeklerin açılması da normale göre hem daha geç, hem de düzensiz olur. Böylece geç açan çiçekler döllenme yetersizliği nedeni ile dökülür. Soğuklamasını giderememiş elma ağaçlarında yaprak gözleri sürmez ve ağaç çıplak kalır. Elma yüksek yaz sıcağından da hoşlanmaz. Sıcaklık 40°C’nin üzerine çıktığı zaman büyüme durur, daha yüksek sıcaklıklarda ise zararlanma görülmeye başlar.  2. Toprak İstekleri  Elma genellikle bir çok toprak tiplerinde başarılı sonuç verir. Bahçe kurulacak yerin alt toprak yapısı önemlidir. Alt toprak, bitki kökleri hiçbir zaman su içinde kalmayacak ve köklerin yayılmasını kolaylaştıracak şekilde drene edilmelidir. Sert ve suyu tutan alt toprak gelişmeye engel olur, ağacın büyümesini ve ömrünü olumsuz yönde etkiler. En iyisi alt toprağın çakıllı-tınlı olmasıdır. Toprak derinliğinin 2 metre veya daha fazla olması istenir. Elma yetiştiriciliği için en iyi topraklar optimal olarak 6.0-6.5 pH ve içerisinde normal kireci ve yeteri kadar humus ve nemi bulunan tınlı, tınlı-kumlu veya kumlu-tınlı geçirgen topraklardır."
+            android:id="@+id/textView7" />
+    </ScrollView>
+
+</LinearLayout>

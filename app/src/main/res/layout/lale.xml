@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView11"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/laleicon" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView4"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="LALE  *Doğrudan güneş ışığı istemeyen bu bitki dolaylı ışıklardan da yararlanabilir.  *Çok fazla soğuk ve sıcak havada bırakma çiçeğin yapraklarına,çiçeklerine ve köklerine zararlıdır. *Saksı değişimi iki yılda bir olmak üzere sıcak ayların başladığı zamanlarda yapılmalıdır. Lale Bitkisi Nasıl Sulanmalıdır? -Yaz aylarında ise bitkinin suya olan ihtiyacı artacağından bitkiye verilen suyun arttırılması gerekmektedir. -Su toprağın her tarafına ulaştırılmalıdır. -Bitkiyi sularken kullanılan kap her sulamada aynı ölçüde, sulamalar aynı günde ve aynı miktarlarda su dökülmelidir. -Lalede çok büyük bir değişiklik görülmediği sürece sulanmada kullanılan kap, ölçü ve su miktarı değiştirilmemelidir. *Lale bitkisini yetiştirmede en önemli kural kış aylarında oda sıcaklığının 12 °C nin altında olmaması gerektiğidir. *Lale bitkisi genellikle yaz aylarında çiçek açar ve çiçeklerini kış aylarına doğru dökerek bir dinlenme sürecine girer. *Bitkiye kış aylarında musluktan aldığımız soğuk çeşme suyunu vermemeliyiz. Verdiğimiz su oda sıcaklığında olmalıdır. Lale Bitkisi Nasıl Bakılır?  *Hava akımlarından kolay etkilenen lale bitkisi bu etkiden korunmalıdır. *Kış aylarında bitki aşırı soğuktan korunmalıdır. *Lale bulunduğu yerde başka cisimlerle temasta bulunmalıdır. Lale Bitkisi Nasıl Beslenir?  *Lale Bitkisi her çiçekçiden ve seradan alınabilecek vitamin ve mineraller ile yılda en az bir kere topraktan verilmek üzere beslenmelidir. *Bu beslenme bitkinin ömrünü uzatacağı gibi çiçeğinin daha güzel görünmesini ve daha çabuk büyümesini sağlayacaktır. "
+            android:id="@+id/textView10" />
+    </ScrollView>
+</LinearLayout>

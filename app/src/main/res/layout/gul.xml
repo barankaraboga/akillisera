@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView10"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/gulresim" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView3"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gül Bitkisi Nasıl Yetiştirilir? *Doğrudan güneş ışığı istemeyen bu bitki dolaylı ışıklardan da yararlanabilir.  *Çok fazla soğuk ve sıcak havada bırakma çiçeğin yapraklarına,çiçeklerine, meyvelerine ve köklerine zararlıdır. *Saksı değişimi iki yılda bir olmak üzere sıcak ayların başladığı zamanlarda yapılmalıdır. Gül Bitkisi Nasıl Sulanmalıdır? -Yaz aylarında ise bitkinin suya olan ihtiyacı artacağından bitkiye verilen suyun arttırılması gerekmektedir. -Su toprağın her tarafına ulaştırılmalıdır. -Bitkiyi sularken kullanılan kap her sulamada aynı ölçüde, sulamalar aynı günde ve aynı miktarlarda su dökülmelidir. -Gülde çok büyük bir değişiklik görülmediği sürece sulanmada kullanılan kap, ölçü ve su miktarı değiştirilmemelidir. *Gül bitkisini yetiştirmede en önemli kural kış aylarında oda sıcaklığının 12 °C nin altında olmaması gerektiğidir. *Gül bitkisi genellikle yaz aylarında çiçek açar ve çiçeklerini kış aylarına doğru dökerek bir dinlenme sürecine girer. *Bitkiye kış aylarında musluktan aldığımız soğuk çeşme suyunu vermemeliyiz. Verdiğimiz su oda sıcaklığında olmalıdır. Gül Bitkisi Nasıl Bakılır?  *Hava akımlarından kolay etkilenen gül bitkisi bu etkiden korunmalıdır. *Kış aylarında bitki aşırı soğuktan korunmalıdır. *Gül bulunduğu yerde başka cisimlerle temasta bulunmalıdır."
+            android:id="@+id/textView9" />
+    </ScrollView>
+</LinearLayout>

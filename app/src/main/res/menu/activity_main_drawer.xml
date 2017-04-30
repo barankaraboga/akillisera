@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/anasayfa"
+            android:icon="@mipmap/home"
+            android:title="Anasayfa" />
+
+        <item
+            android:id="@+id/cicekler"
+            android:icon="@mipmap/tree"
+            android:title="Ağaçlar" />
+
+        <item
+            android:id="@+id/agaclar"
+            android:icon="@mipmap/plant"
+            android:title="Çiçekler" />
+        <item
+            android:id="@+id/hakkimda"
+            android:icon="@mipmap/about"
+            android:title="Hakkımızda" />
+    </group>
+
+
+
+</menu>

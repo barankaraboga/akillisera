@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView9"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/zambak" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView2" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="ZAMBAK *Doğrudan güneş ışığı istemeyen bu bitki dolaylı ışıklardan da yararlanabilir.  *Çok fazla soğuk ve sıcak havada bırakma çiçeğin yapraklarına,çiçeklerine ve köklerine zararlıdır. *Saksı değişimi iki yılda bir olmak üzere sıcak ayların başladığı zamanlarda yapılmalıdır. Zambak Bitkisi Nasıl Sulanmalıdır? -Yaz aylarında ise bitkinin suya olan ihtiyacı artacağından bitkiye verilen suyun arttırılması gerekmektedir. -Su toprağın her tarafına ulaştırılmalıdır. -Bitkiyi sularken kullanılan kap her sulamada aynı ölçüde, sulamalar aynı günde ve aynı miktarlarda su dökülmelidir. -Zambakta çok büyük bir değişiklik görülmediği sürece sulanmada kullanılan kap, ölçü ve su miktarı değiştirilmemelidir. *Zambak bitkisini yetiştirmede en önemli kural kış aylarında oda sıcaklığının 12 °C nin altında olmaması gerektiğidir. *Zambak bitkisi genellikle yaz aylarında çiçek açar ve çiçeklerini kış aylarına doğru dökerek bir dinlenme sürecine girer. *Bitkiye kış aylarında musluktan aldığımız soğuk çeşme suyunu vermemeliyiz. Verdiğimiz su oda sıcaklığında olmalıdır. Zambak Bitkisi Nasıl Bakılır?  *Hava akımlarından kolay etkilenen zambak bitkisi bu etkiden korunmalıdır. *Kış aylarında bitki aşırı soğuktan korunmalıdır. *Zambak bulunduğu yerde başka cisimlerle temasta bulunmalıdır."
+            android:id="@+id/textView8" />
+    </ScrollView>
+</LinearLayout>
